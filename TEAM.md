@@ -1,14 +1,5 @@
-## Founder
+CryptAPI team is almost as decentralized as crypto. 
 
-Name: [name]
-Role: [role]
+We have members in multiple european countries, in the americas, and the middle east.
 
-## Team Member 1
-
-Name: [name]
-Role: [role]
-
-## Team Member 2
-
-Name: [name]
-Role: [role]
+The main development office is located in Portugal.
